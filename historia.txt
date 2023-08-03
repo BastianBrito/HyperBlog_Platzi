@@ -1,2 +1,2 @@
-esta es una prueba de git.
-prueba 2 de commits
+esta es una prueba de git clase 12.
+prueba 2 de commits 
