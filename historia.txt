@@ -3,3 +3,4 @@ esta es una prueba de git.
 mañana nos enfocaremos en su vida laboral
 
 Ahora agregamos a uuario bastianbritoUAI
+y su correo es bastian.brito@uai.cl
